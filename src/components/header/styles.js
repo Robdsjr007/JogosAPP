@@ -7,7 +7,7 @@ const styles = StyleSheet.create({
         justifyContent:'space-between',
         alignItems:'center',
         marginTop:8,
-        marginLeft:10
+        marginLeft: 0
     },
     textHeader:{
         fontSize:25,

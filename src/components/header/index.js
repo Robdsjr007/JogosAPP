@@ -7,9 +7,9 @@ export default function Header(){
     return(
         <View style = {styles.viewHeader}>
          <TouchableOpacity> 
-        <Feather style={{marginLeft: -100}} name="menu" size={36} color="white" />
+        <Feather style={{marginLeft: -100, marginRight: 0, padding: 0}} name="menu" size={36} color="white" />
         </TouchableOpacity>  
-        <Text style = {styles.textHeader}> CloudGames  </Text> 
+        <Text style = {styles.textHeader}>CloudGames</Text> 
 
         </View>
     );

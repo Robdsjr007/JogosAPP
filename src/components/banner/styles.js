@@ -9,7 +9,7 @@ textBanner:{
     fontWeight: 'Bold'
 },
 imageBanner:{
-    width: '100vw',
+    width: '94vw',
     height:200,
     marginTop:10,
     borderRadius:10

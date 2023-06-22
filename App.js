@@ -13,7 +13,7 @@ export default function App() {
       <Header></Header>
       <Search></Search>
       <BannerMovies></BannerMovies>
-      <View style={{width:'90%'}}>
+      <View style={{width:'94vw'}}>
       <FlatList
           showsHorizontalScrollIndicator = {false}
           horizontal = {true}
@@ -56,7 +56,7 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#4B0082',
+    backgroundColor: '#191970',
     alignItems: 'center',
     
   },

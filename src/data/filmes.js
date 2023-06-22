@@ -20,45 +20,45 @@ const DATA =
     },
     {
         id:"04",
-        nome:"Panico VI",
-        nota:'R$ 120',
-        imagem:'panico.jpg'
+        nome:"Cyberpunk",
+        nota:'R$ 90',
+        imagem:'cbp.jpg'
     },
     {
         id:"05",
-        nome:"Carros 3",
-        nota:'9.8',
-        imagem:'carros3.jpg'
+        nome:"Fifa 23",
+        nota:'R$ 160',
+        imagem:'fifa23.jpg'
     },
     {
         id:"06",
-        nome:"Homem-Formiga e a vespa: Quantumania",
-        nota:'5.7',
-        imagem:'homemformiga.jpg'
+        nome:"God of War: Ragnarok",
+        nota:'R$ 320',
+        imagem:'gow.jpg'
     },
     {
         id:"07",
-        nome:"Gato de botas 2: O Último Pedido",
-        nota:'9.8',
-        imagem:'gato.jpg'
+        nome:"Metal Gear V",
+        nota:'R$ 35',
+        imagem:'mg5.jpg'
     },
     {
         id:"08",
-        nome:"Megan",
-        nota:'4.5',
-        imagem:'megan.jpg'
+        nome:"Naruto Storm 4",
+        nota:'R$ 50',
+        imagem:'narutostorm4.jpg'
     },
     {
         id:"09",
-        nome:"Os Incríveis",
-        nota:'4.7',
-        imagem:'incriveis.jpg'
+        nome:"Mortal Kombat 11",
+        nota:'R$ 120',
+        imagem:'mk11.jpg'
     },
     {
         id:"10",
-        nome:"Desaparecida",
-        nota:'7.0',
-        imagem:'desaparecida.jpg'
+        nome:"ROT Tomb Raider",
+        nota:'R$ 30',
+        imagem:'tr.jpg'
     }
 ]
 

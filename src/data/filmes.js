@@ -20,7 +20,7 @@ const DATA =
     },
     {
         id:"04",
-        nome:"Cyberpunk",
+        nome:"Cyberpunk 2077",
         nota:'R$ 90',
         imagem:'cbp.jpg'
     },
@@ -56,7 +56,7 @@ const DATA =
     },
     {
         id:"10",
-        nome:"ROT Tomb Raider",
+        nome:"Rise of the Tomb Raider",
         nota:'R$ 30',
         imagem:'tr.jpg'
     }

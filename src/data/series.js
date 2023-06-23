@@ -2,63 +2,63 @@ const DATA =
 [
     {
         id:"01",
-        nome:"Breaking Bad",
-        nota:'9.0',
-        imagem:'bb.jpg'
+        nome:"Batman Arkham Collection",
+        nota:'R$ 70',
+        imagem:'batmanac.jpg'
     },
     {
         id:"02",
-        nome:"Barbie: vida de careca",
-        nota:'10.0',
-        imagem:'barbie.jpg'
+        nome:"Grand Theft Auto V",
+        nota:'R$ 110',
+        imagem:'gtav.jpg'
     },
     {
         id:"03",
-        nome:"The Last of Plus",
-        nota:'9.9',
-        imagem:'tlou.jpg'
+        nome:"Tekken 7",
+        nota:'R$ 230',
+        imagem:'t7.jpg'
     },
     {
         id:"04",
-        nome:"The Walking Dead",
-        nota:'7.5',
-        imagem:'twd.jpg'
+        nome:"Rainbow Six Siege Gold Edition",
+        nota:'R$ 75',
+        imagem:'r6siegegold.jpg'
     },
     {
         id:"05",
-        nome:"Wandinha",
-        nota:'2.8',
-        imagem:'wandinha.jpg'
+        nome:"Fortnite",
+        nota: 'GRATUITO',
+        imagem:'fortnite.jpg'
     },
     {
         id:"06",
-        nome:"Cyberpunk: Edgerunners",
-        nota:'8.7',
-        imagem:'cyberEdge.jpg'
+        nome:"Injustice 2",
+        nota:'R$ 170',
+        imagem:'injustice2.jpg'
     },
     {
         id:"07",
-        nome:"O Gambito da Rainha",
-        nota:'6.8',
-        imagem:'gambito.jpg'
+        nome:"Stardew Valley",
+        nota:'R$ 25',
+        imagem:'sv.jpg'
     },
     {
         id:"08",
-        nome:"Carros na Estrada",
-        nota:'4.5',
-        imagem:'cars.jpg'
+        nome:"Gears of War 5",
+        nota:'R$ 320',
+        imagem:'g5.jpg'
     },
     {
         id:"09",
-        nome:"Demon Slayer",
-        nota:'9.7',
-        imagem:'demon.jpg'
+        nome:"Doom Eternal",
+        nota:'R$ 115',
+        imagem:'doome.jpg'
     },
     {
         id:"10",
-        nome:"The Boys",
-        nota:'7.0',
-        imagem:'The_Boys.jpg'
+        nome:"Call of Duty MW",
+        nota:'R$ 120',
+        imagem:'codmw.jpg'
     }
 ]
 

@@ -1,7 +1,7 @@
 
 import { FlatList, StyleSheet, Text, View } from 'react-native';
 import Header from './src/components/header';
-import Search from './src/components/searchBar';
+import SearchBar from './src/components/searchBar';
 import BannerMovies from './src/components/banner';
 import Filmes from './src/data/filmes';
 import Series from './src/data/series';
@@ -11,7 +11,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Header></Header>
-      <Search></Search>
+      <SearchBar></SearchBar>
       <BannerMovies></BannerMovies>
       <View style={{width:'94vw'}}>
       <FlatList
@@ -24,7 +24,7 @@ export default function App() {
             <CardMovies
             titulo = {item.nome}
             imagem = {item.imagem}
-            nota = {item.nota}
+            preco = {item.preco}
             
             
             
@@ -41,7 +41,7 @@ export default function App() {
             <CardMovies
             titulo = {item.nome}
             imagem = {item.imagem}
-            nota = {item.nota}
+            preco = {item.preco}
             
             
             

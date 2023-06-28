@@ -2,18 +2,32 @@ import { StyleSheet } from "react-native";
 
 const styles = StyleSheet.create({
 
-    viewHeader:{
-        flexDirection:'row',
-        justifyContent:'space-between',
-        alignItems:'center',
-        marginTop:8,
-        marginLeft: 0
+    viewHeader: {
+        width: '100vw',
+        flexDirection: 'row',
+        alignItems: 'center',
+        justifyContent: 'space-between',
+        paddingHorizontal: 16,
+        height: 60
     },
+
     textHeader:{
+        flex: 1,
         fontSize:25,
         color:'white',
         fontWeight:'bold',
-        marginRight:0
+        textAlign: 'center',
+        padding: 0,
+    },
+
+    menu: {
+        padding: 0
+    },
+    
+    logoHeader: {
+        width: 60,
+        height: 60,
+        padding: 0
     }
 
 })

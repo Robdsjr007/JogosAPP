@@ -13,7 +13,7 @@ const styles = StyleSheet.create({
         fontSize: 12,
         paddingTop: 8
     },
-    textNota:{
+    textPreco:{
         fontSize: 14,
         color: "#fff",
         paddingLeft: 0,

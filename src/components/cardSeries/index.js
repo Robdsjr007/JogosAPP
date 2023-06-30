@@ -2,7 +2,7 @@ import React from 'react'
 import {Image,Text,TouchableOpacity} from 'react-native'
 import styles from './style'
 
-export default function CardMovies({titulo,imagem,preco,nota}){
+export default function CardSeries({titulo,imagem,preco,nota}){
 
     return(
 

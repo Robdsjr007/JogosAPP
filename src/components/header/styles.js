@@ -9,6 +9,7 @@ const styles = StyleSheet.create({
         justifyContent: 'space-between',
         paddingHorizontal: 16,
         height: 60
+        
     },
 
     textHeader:{
@@ -18,16 +19,20 @@ const styles = StyleSheet.create({
         fontWeight:'bold',
         textAlign: 'center',
         padding: 0,
+        margin: 0
     },
 
     menu: {
-        padding: 0
+        padding: 0,
+        paddingRight: 20,
+        margin: 0
     },
     
     logoHeader: {
         width: 60,
         height: 60,
-        padding: 0
+        padding: 0,
+        margin: 0
     }
 
 })

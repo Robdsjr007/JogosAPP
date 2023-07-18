@@ -20,7 +20,7 @@ const SimpleModal = (props) => {
           <Image style={styles.image} source={require(`../../Img/${props.chooseData.imagem}`)} />
         </View>
         <View style={styles.textView}>
-          <Text style={[styles.text, { fontSize: 20 }]}>{props.chooseData.titulo}</Text>
+          <Text style={[styles.text, { fontSize: 20, textAlign: 'center' }]}>{props.chooseData.titulo}</Text>
           <Text style={styles.text}>{props.chooseData.descricao}</Text>
         </View>
         <View style={styles.buttonsView}>
@@ -58,23 +58,25 @@ const styles = StyleSheet.create({
   },
   textView: {
     flex: 1,
-    alignItems: 'center'
+    alignItems: 'center',
+    width: '100%'
   },
   text: {
     margin: 5,
     fontSize: 10,
     fontWeight: 'bold',
+    width: '100%',
     paddingHorizontal: 20
   },
   buttonsView: {
     width: '100%',
     flexDirection: 'row',
+    justifyContent: 'center'
   },
   touchableClose: {
     alignItems: 'end'
   },
   touchableJogar: {
-    flex: 1,
     alignItems: 'center',
     justifyContent: 'center',
     marginTop: 140,

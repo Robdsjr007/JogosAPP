@@ -74,7 +74,9 @@ const styles = StyleSheet.create({
     justifyContent: 'center'
   },
   touchableClose: {
-    alignItems: 'end'
+    alignItems: 'end',
+    marginRight: 10
+    
   },
   touchableJogar: {
     alignItems: 'center',
